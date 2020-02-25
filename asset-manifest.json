@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "muhammadkevinpf.github.io/portfolio/static/css/main.439a4651.chunk.css",
-    "main.js": "muhammadkevinpf.github.io/portfolio/static/js/main.310474cb.chunk.js",
-    "main.js.map": "muhammadkevinpf.github.io/portfolio/static/js/main.310474cb.chunk.js.map",
-    "runtime-main.js": "muhammadkevinpf.github.io/portfolio/static/js/runtime-main.1ca5a309.js",
-    "runtime-main.js.map": "muhammadkevinpf.github.io/portfolio/static/js/runtime-main.1ca5a309.js.map",
-    "static/js/2.dc79fc8d.chunk.js": "muhammadkevinpf.github.io/portfolio/static/js/2.dc79fc8d.chunk.js",
-    "static/js/2.dc79fc8d.chunk.js.map": "muhammadkevinpf.github.io/portfolio/static/js/2.dc79fc8d.chunk.js.map",
-    "index.html": "muhammadkevinpf.github.io/portfolio/index.html",
-    "precache-manifest.3e545d97f72eb312b8084a9556015746.js": "muhammadkevinpf.github.io/portfolio/precache-manifest.3e545d97f72eb312b8084a9556015746.js",
-    "service-worker.js": "muhammadkevinpf.github.io/portfolio/service-worker.js",
-    "static/css/main.439a4651.chunk.css.map": "muhammadkevinpf.github.io/portfolio/static/css/main.439a4651.chunk.css.map",
-    "static/js/2.dc79fc8d.chunk.js.LICENSE": "muhammadkevinpf.github.io/portfolio/static/js/2.dc79fc8d.chunk.js.LICENSE"
+    "main.css": "./static/css/main.439a4651.chunk.css",
+    "main.js": "./static/js/main.310474cb.chunk.js",
+    "main.js.map": "./static/js/main.310474cb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1ca5a309.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1ca5a309.js.map",
+    "static/js/2.dc79fc8d.chunk.js": "./static/js/2.dc79fc8d.chunk.js",
+    "static/js/2.dc79fc8d.chunk.js.map": "./static/js/2.dc79fc8d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.3e545d97f72eb312b8084a9556015746.js": "./precache-manifest.3e545d97f72eb312b8084a9556015746.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.439a4651.chunk.css.map": "./static/css/main.439a4651.chunk.css.map",
+    "static/js/2.dc79fc8d.chunk.js.LICENSE": "./static/js/2.dc79fc8d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.1ca5a309.js",

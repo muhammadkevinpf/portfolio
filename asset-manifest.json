@@ -1,22 +1,36 @@
 {
   "files": {
-    "main.css": "./static/css/main.439a4651.chunk.css",
-    "main.js": "./static/js/main.310474cb.chunk.js",
-    "main.js.map": "./static/js/main.310474cb.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1ca5a309.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1ca5a309.js.map",
-    "static/js/2.dc79fc8d.chunk.js": "./static/js/2.dc79fc8d.chunk.js",
-    "static/js/2.dc79fc8d.chunk.js.map": "./static/js/2.dc79fc8d.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.3e545d97f72eb312b8084a9556015746.js": "./precache-manifest.3e545d97f72eb312b8084a9556015746.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.439a4651.chunk.css.map": "./static/css/main.439a4651.chunk.css.map",
-    "static/js/2.dc79fc8d.chunk.js.LICENSE": "./static/js/2.dc79fc8d.chunk.js.LICENSE"
+    "main.css": "/muhammadkevinpf.github.io/portfolio/static/css/main.1fd5d0d9.chunk.css",
+    "main.js": "/muhammadkevinpf.github.io/portfolio/static/js/main.5a34c28f.chunk.js",
+    "main.js.map": "/muhammadkevinpf.github.io/portfolio/static/js/main.5a34c28f.chunk.js.map",
+    "runtime-main.js": "/muhammadkevinpf.github.io/portfolio/static/js/runtime-main.c9de8fe5.js",
+    "runtime-main.js.map": "/muhammadkevinpf.github.io/portfolio/static/js/runtime-main.c9de8fe5.js.map",
+    "static/js/2.ade1bf34.chunk.js": "/muhammadkevinpf.github.io/portfolio/static/js/2.ade1bf34.chunk.js",
+    "static/js/2.ade1bf34.chunk.js.map": "/muhammadkevinpf.github.io/portfolio/static/js/2.ade1bf34.chunk.js.map",
+    "index.html": "/muhammadkevinpf.github.io/portfolio/index.html",
+    "precache-manifest.4694c50d6f45d624c4fd447c530caac1.js": "/muhammadkevinpf.github.io/portfolio/precache-manifest.4694c50d6f45d624c4fd447c530caac1.js",
+    "service-worker.js": "/muhammadkevinpf.github.io/portfolio/service-worker.js",
+    "static/css/main.1fd5d0d9.chunk.css.map": "/muhammadkevinpf.github.io/portfolio/static/css/main.1fd5d0d9.chunk.css.map",
+    "static/js/2.ade1bf34.chunk.js.LICENSE.txt": "/muhammadkevinpf.github.io/portfolio/static/js/2.ade1bf34.chunk.js.LICENSE.txt",
+    "static/media/Alana.png": "/muhammadkevinpf.github.io/portfolio/static/media/Alana.ab90b7e4.png",
+    "static/media/BDC.png": "/muhammadkevinpf.github.io/portfolio/static/media/BDC.cf74d615.png",
+    "static/media/Flociti.png": "/muhammadkevinpf.github.io/portfolio/static/media/Flociti.dcf1db24.png",
+    "static/media/IRD.png": "/muhammadkevinpf.github.io/portfolio/static/media/IRD.8beca20f.png",
+    "static/media/Indomaret.png": "/muhammadkevinpf.github.io/portfolio/static/media/Indomaret.dc265ab6.png",
+    "static/media/codeigniter.png": "/muhammadkevinpf.github.io/portfolio/static/media/codeigniter.7f7decab.png",
+    "static/media/css-3.svg": "/muhammadkevinpf.github.io/portfolio/static/media/css-3.2db97d69.svg",
+    "static/media/express.svg": "/muhammadkevinpf.github.io/portfolio/static/media/express.b32cf20d.svg",
+    "static/media/firebase.svg": "/muhammadkevinpf.github.io/portfolio/static/media/firebase.bfa69c4f.svg",
+    "static/media/html5.svg": "/muhammadkevinpf.github.io/portfolio/static/media/html5.54de1526.svg",
+    "static/media/javascript.svg": "/muhammadkevinpf.github.io/portfolio/static/media/javascript.e169ba29.svg",
+    "static/media/mui.png": "/muhammadkevinpf.github.io/portfolio/static/media/mui.d2b1e190.png",
+    "static/media/php.svg": "/muhammadkevinpf.github.io/portfolio/static/media/php.d956cbbb.svg",
+    "static/media/profile.png": "/muhammadkevinpf.github.io/portfolio/static/media/profile.0e68f903.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ca5a309.js",
-    "static/js/2.dc79fc8d.chunk.js",
-    "static/css/main.439a4651.chunk.css",
-    "static/js/main.310474cb.chunk.js"
+    "static/js/runtime-main.c9de8fe5.js",
+    "static/js/2.ade1bf34.chunk.js",
+    "static/css/main.1fd5d0d9.chunk.css",
+    "static/js/main.5a34c28f.chunk.js"
   ]
 }

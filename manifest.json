@@ -3,33 +3,33 @@
   "name": "Portfolio Kevin",
   "icons": [
     {
-      "src": "/portfolio/assets/img/icon/logo-128.png",
-      "type": "image/png",
+      "src": "/icon/logo-128.jpg",
+      "type": "image/jpg",
       "sizes": "128x128"
     },
     {
-      "src": "/portfolio/assets/img/icon/logo-144.png",
-      "type": "image/png",
+      "src": "/icon/logo-144.jpg",
+      "type": "image/jpg",
       "sizes": "144x144"
     },
     {
-      "src": "/portfolio/assets/img/icon/logo-152.png",
-      "type": "image/png",
+      "src": "/icon/logo-152.jpg",
+      "type": "image/jpg",
       "sizes": "152x152"
     },
     {
-      "src": "/portfolio/assets/img/icon/logo-192.png",
-      "type": "image/png",
+      "src": "/icon/logo-192.jpg",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "/portfolio/assets/img/icon/logo-256.png",
-      "type": "image/png",
+      "src": "/icon/logo-256.jpg",
+      "type": "image/jpg",
       "sizes": "256x256"
     },
     {
-      "src": "/portfolio/assets/img/icon/logo-512.png",
-      "type": "image/png",
+      "src": "/icon/logo-512.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],

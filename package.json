@@ -2,7 +2,7 @@
   "name": "porto-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "muhammadkevinpf.github.io",
+  "homepage": "https://muhammadkevinpf.github.io/portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
@@ -15,11 +15,16 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-lazyload": "^2.6.5",
-    "react-scripts": "3.3.0",
+    "react-lottie": "^1.2.3",
+    "react-preloaders": "^3.0.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.0",
+    "react-slick": "^0.27.8",
     "react-visibility-sensor": "^5.1.1"
   },
   "scripts": {

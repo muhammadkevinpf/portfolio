@@ -1,20 +1,35 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Portfolio Kevin",
+  "name": "Portfolio Kevin",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/icon/logo-128.jpg",
+      "type": "image/jpg",
+      "sizes": "128x128"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "/icon/logo-144.jpg",
+      "type": "image/jpg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icon/logo-152.jpg",
+      "type": "image/jpg",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/icon/logo-192.jpg",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "/icon/logo-256.jpg",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/icon/logo-512.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],
